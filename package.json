@@ -1,0 +1,17 @@
+{
+  "name": "expresswebbyta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohd Tariq",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "grpc": "^1.24.11",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.16"
+  }
+}
